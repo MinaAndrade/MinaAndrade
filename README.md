@@ -1,7 +1,7 @@
 # Hi 👋, I'm ✨ MinaAndrade ✨
 
 ## 👩🏻 Sobre mim
-Sou uma eterna aprendiz, que procura dar o melhor em tudo em que me proponho a fazer. Tenho interesse em trabalhar na área de programação afim de colocar em prática os conhecimentos adquiridos na faculdade e em cursos realizados. Meu foco é em **BackEnd** mas tenho interesse em aprender **FrontEnd** e **Banco de Dados**.
+Sou uma eterna aprendiz, que procura dar o melhor em tudo em que me proponho a fazer. Meu maior interesse era trabalhar na área de programação afim de colocar em prática os conhecimentos adquiridos na faculdade e em cursos realizados, e hoje estou, com muita alegria, estagiando em QA. Contudo, minha vontade em aprimorar e ter experiência em **BackEnd**, **FrontEnd** e **Banco de Dados** ainda permanece.
 
 ## 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmina-andrade/) [![Discord](https://img.shields.io/badge/Discord-B22222?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yasmina08/)
@@ -17,4 +17,4 @@ Sou uma eterna aprendiz, que procura dar o melhor em tudo em que me proponho a f
 
 
 ## ❤️ Hobbies
-![Spotify](https://img.shields.io/badge/Spotify-B22222?style=for-the-badge&logo=spotify&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-B22222.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-B22222?style=for-the-badge&logo=netflix&logoColor=white) ![CROCHE](https://img.shields.io/badge/CROCHE-B22222?style=for-the-badge&logo=croche&logoColor=white) ![ACADEMIA](https://img.shields.io/badge/ACADEMIA-B22222?style=for-the-badge&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-B22222?style=for-the-badge&logo=spotify&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-B22222?style=for-the-badge&logo=netflix&logoColor=white) ![CROCHE](https://img.shields.io/badge/CROCHE-B22222?style=for-the-badge&logo=croche&logoColor=white) ![ACADEMIA](https://img.shields.io/badge/ACADEMIA-B22222?style=for-the-badge&logoColor=white)
