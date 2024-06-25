@@ -1,7 +1,9 @@
 # Hi 👋, I'm ✨ MinaAndrade ✨
 
 ## 👩🏻 Sobre mim
-Sou uma eterna aprendiz, que procura dar o melhor em tudo em que me proponho a fazer. Meu maior interesse era trabalhar na área de programação afim de colocar em prática os conhecimentos adquiridos na faculdade e em cursos realizados, e hoje estou, com muita alegria, estagiando em QA. Contudo, minha vontade em aprimorar e ter experiência em **BackEnd**, **FrontEnd** e **Banco de Dados** ainda permanece.
+Sou uma eterna aprendiz, que procura dar o melhor em tudo em que me proponho a fazer.  
+Meu maior interesse era trabalhar na área de programação afim de colocar em prática os conhecimentos adquiridos na faculdade e em cursos realizados, e hoje estou tendo a oportunidade de estagiar em QA.  
+Contudo, minha vontade em aprimorar e ter experiência em **BackEnd**, **FrontEnd** e **Banco de Dados** ainda permanece.
 
 ## 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmina-andrade/) [![Discord](https://img.shields.io/badge/Discord-B22222?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yasmina08/)
