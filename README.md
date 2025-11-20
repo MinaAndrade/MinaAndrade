@@ -1,7 +1,7 @@
 # Hi 👋, I'm ✨ MinaAndrade ✨
 
 ## 👩🏻 Sobre mim
-Sou uma profissional em constante evolução, apaixonada por tecnologia e motivada a entregar sempre o meu melhor. Durante minha trajetória acadêmica e profissional, tive a oportunidade de atuar como Estagiária de QA, onde desenvolvi experiência prática em execução de testes manuais, registro e acompanhamento de bugs, elaboração de casos de teste, testes de regressão, automação de testes e participação em cerimônias ágeis como daily, planning e review. Também trabalhei com ferramentas amplamente utilizadas no mercado, como Jira, Figma e Git, fortalecendo minha visão sobre processos de qualidade e desenvolvimento de software.
+Sou uma profissional em constante evolução, apaixonada por tecnologia e motivada a entregar sempre o meu melhor. Durante minha trajetória acadêmica e profissional, tive a oportunidade de atuar como Estagiária de QA no Instituto de Pesquisas Eldorado, onde desenvolvi experiência prática em execução de testes manuais, registro e acompanhamento de bugs, elaboração de casos de teste, testes de regressão, automação de testes e participação em cerimônias ágeis como daily, planning e review. Também trabalhei com ferramentas amplamente utilizadas no mercado, como Jira, Figma e Git, fortalecendo minha visão sobre processos de qualidade e desenvolvimento de software.
 
 🧩 Apesar de atualmente estar focada na área de QA, mantenho um forte interesse em Back-End, Front-End e Banco de Dados, buscando constantemente aprender mais sobre essas áreas para me tornar uma profissional ainda mais completa. Acredito em aprendizado contínuo, colaboração e na importância de construir soluções de qualidade que realmente façam a diferença.
 
@@ -12,11 +12,11 @@ Sou uma profissional em constante evolução, apaixonada por tecnologia e motiva
 ![Git](https://img.shields.io/badge/GIT-B22222?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-B22222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinaAndrade) ![JAVASCRIPT](https://img.shields.io/badge/Javascript-B22222?style=for-the-badge&logo=javascript&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-B22222?style=for-the-badge&logo=robotframework&logoColor=white) ![Python](https://img.shields.io/badge/python-B22222?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-B22222?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-B22222?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-B22222?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MinaAndrade&layout=compact&bg_color=000&border_color=B22222&title_color=B22222&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaAndrade&layout=compact&bg_color=000&border_color=B22222&title_color=B22222&text_color=FFF&size_weight=0.5&card_width=350)
 
 ## 👯 Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MinaAndrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MinaAndrade/dio-lab-open-source)
 
 
 ## ❤️ Hobbies
-![Spotify](https://img.shields.io/badge/Spotify-B22222?style=for-the-badge&logo=spotify&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-B22222?style=for-the-badge&logo=netflix&logoColor=white) ![CROCHE](https://img.shields.io/badge/CROCHE-B22222?style=for-the-badge&logo=croche&logoColor=white) ![ACADEMIA](https://img.shields.io/badge/ACADEMIA-B22222?style=for-the-badge&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-B22222?style=for-the-badge&logo=spotify&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-B22222?style=for-the-badge&logo=netflix&logoColor=white) ![CROCHE](https://img.shields.io/badge/CROCHE-B22222?style=for-the-badge&logo=croche&logoColor=white) ![ACADEMIA](https://img.shields.io/badge/ACADEMIA-B22222?style=for-the-badge&logo=gym&logoColor=white)
