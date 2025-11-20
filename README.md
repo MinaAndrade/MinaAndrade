@@ -1,15 +1,15 @@
 # Hi 👋, I'm ✨ MinaAndrade ✨
 
 ## 👩🏻 Sobre mim
-Sou uma eterna aprendiz, que procura dar o melhor em tudo em que me proponho a fazer.  
-Meu maior interesse era trabalhar na área de programação afim de colocar em prática os conhecimentos adquiridos na faculdade e em cursos realizados, e hoje estou tendo a oportunidade de estagiar em QA.  
-Contudo, minha vontade em aprimorar e ter experiência em **BackEnd**, **FrontEnd** e **Banco de Dados** ainda permanece.
+Sou uma profissional em constante evolução, apaixonada por tecnologia e motivada a entregar sempre o meu melhor. Durante minha trajetória acadêmica e profissional, tive a oportunidade de atuar como Estagiária de QA, onde desenvolvi experiência prática em execução de testes manuais, registro e acompanhamento de bugs, elaboração de casos de teste, testes de regressão, automação de testes e participação em cerimônias ágeis como daily, planning e review. Também trabalhei com ferramentas amplamente utilizadas no mercado, como Jira, Figma e Git, fortalecendo minha visão sobre processos de qualidade e desenvolvimento de software.
+
+🧩 Apesar de atualmente estar focada na área de QA, mantenho um forte interesse em Back-End, Front-End e Banco de Dados, buscando constantemente aprender mais sobre essas áreas para me tornar uma profissional ainda mais completa. Acredito em aprendizado contínuo, colaboração e na importância de construir soluções de qualidade que realmente façam a diferença.
 
 ## 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmina-andrade/) [![Discord](https://img.shields.io/badge/Discord-B22222?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yasmina08/)
 
 ## 🤹‍♂️ Habilidades
-![Git](https://img.shields.io/badge/GIT-B22222?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-B22222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinaAndrade) ![JAVA](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-B22222?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-B22222?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-B22222?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-B22222?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-B22222?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-B22222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinaAndrade) ![JAVASCRIPT](https://img.shields.io/badge/Javascript-B22222?style=for-the-badge&logo=javascript&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-B22222?style=for-the-badge&logo=robotframework&logoColor=white) ![Python](https://img.shields.io/badge/python-B22222?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-B22222?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-B22222?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-B22222?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MinaAndrade&layout=compact&bg_color=000&border_color=B22222&title_color=B22222&text_color=FFF)
